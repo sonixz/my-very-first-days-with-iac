@@ -37,3 +37,9 @@ in the Azure cloud shell
 
 
 ![image](https://user-images.githubusercontent.com/101357756/222872689-b1f83bac-9345-4cdd-9c01-78d5390866c3.png)
+
+
+Now let's build the az-deploy.ps1 file.
+
+
+
