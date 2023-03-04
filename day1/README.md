@@ -1,4 +1,4 @@
-First! Let's create a ps1 file to put some variables for our deployement deployment script. 
+First! Let's create a ps1 file to put some variables for our deployment script. 
 We will name this file var.ps1. This file will follow us in the next few days. 
 
 Day1 objective;
@@ -23,7 +23,7 @@ $rgName = $rgPrefix + '-' + $mainLocation + '-iac'
 #
 ```
 
-Once the file is uploaded to cloud shell. Let's import the variable by running 
+Once the file is uploaded to cloud shells. Let's import the variable by running. 
 
 ```yaml
 Import-Module ./var.ps1
@@ -41,7 +41,7 @@ in the Azure cloud shell
 
 Now let's build the az-deploy.ps1 file.
 
-First create the file and add the powershell cmdlet with the imported variables;
+First create the file and add the powershell cmdlets with the imported variables;
 
 
 ```yaml
