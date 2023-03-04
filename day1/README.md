@@ -55,6 +55,7 @@ now you can run it.
 
 Here's the output;
 
-image here
+
+![image](https://user-images.githubusercontent.com/101357756/222872977-44de8f40-97e6-41c6-8e18-dbddbb85236c.png)
 
 
