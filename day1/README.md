@@ -8,7 +8,7 @@ Day1 objective;
 -   Begin to define some variables
 -   Create a resource group based on those variables and the script az-deploy.ps1
 
-image here schema global
+![image](https://user-images.githubusercontent.com/101357756/222872679-323913c9-b2a4-4473-8c5b-86eaa31c4510.png)
 
 ```yaml
 #create variable in  the file var.ps1
@@ -36,4 +36,4 @@ $rgName
 in the Azure cloud shell
 
 
-Image here import module
+![image](https://user-images.githubusercontent.com/101357756/222872689-b1f83bac-9345-4cdd-9c01-78d5390866c3.png)
