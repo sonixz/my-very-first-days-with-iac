@@ -4,7 +4,10 @@ During my first 7 days I was able to create a small infrastructure 100% in IaC m
 
 The discussion section is open! Do not hesitate!
 
+You will need;
 
+-   An Azure subs
+-   Knowlegde to launch the Azure cloudshell
 
 
 Here is the diagram and the development step by step.
