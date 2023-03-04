@@ -1,15 +1,14 @@
-Here are my very first days to learn and familiarize myself with powershell in Azure to deploy some resources.
+First! Let's create a ps1 file to put some variables for our deployement deployment script. 
+We will name this file var.ps1. This file will follow us in the next few days. 
 
-During my first 7 days I was able to create a small infrastructure 100% in IaC mode.
+Day1 objective
 
-The discussion section is open! Do not hesitate!
+-   Create the varables file
+-   Create the az-deploy.ps1 to built our deployement script 
+-   Begin to define some variables
+-   Create a resource group based on that variables and the script az-deploy.ps1
 
 
-
-
-Here is the diagram and the development step by step.
-
-![image](https://user-images.githubusercontent.com/101357756/222868792-078a80e1-0c9a-40f3-bb9c-76f54eca6d23.png)
 
 
 
